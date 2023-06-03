@@ -6,18 +6,8 @@ The Unbound Engine is a powerful and versatile game engine based on the iconic Q
 
 - **High-performance**: The Unbound Engine is optimized for speed and efficiency, ensuring smooth gameplay even with low RAM.
 - **Rendering**: Experience stunning visuals with advanced rendering techniques, including dynamic lighting, shadows, and particle effects.
-- **Physics**: The engine incorporates a robust physics system for realistic object interactions and collision detection.
-- **Modding Support**: Create custom maps, game modes, and assets using the powerful modding tools provided with the Unbound Engine.
-- **Audio**: Immersive audio effects and spatial sound support enhance the overall gaming experience.
-
-## Getting Started
-
-To start using the Unbound Engine, follow these steps:
-
-1. Clone the Unbound Engine repository: `git clone https://github.com/lokithedev/UOD-engine.git`
-2. Install the necessary dependencies and build the engine according to the instructions in the repository.
-3. Explore the provided examples and documentation to familiarize yourself with the engine's capabilities and APIs.
-4. Begin creating your own game by modifying the example projects or starting from scratch.
+- **Portable**: You can compile this an port it to any console, as it is mostly C, the programming language that pretty much runs on everything.
+- **toolkit**: it's coming soon i guess, as a command. i'm thinking running it with the parameters `--gui-editor`,`--radiant`, etc.
 
 ## Documentation
 
